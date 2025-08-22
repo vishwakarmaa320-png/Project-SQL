@@ -1,2 +1,6 @@
-# Project-SQL
-Northwind Database
+# Project-SQL <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/43b0a3db-eb63-4259-8b4f-6632aaec6a32" />
+## Northwind Database <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/20884538-3c4a-4395-98ad-2f9e9786b409" />
+### ➢ Worked with the Northwind Database, a widely used sample database containing 12 relational tables (Customers, Orders, Employees, Products, Shippers, etc.), designed to simulate a real-world trading company’s operations.
+### ➢ Analyze, query, and manage relational data to derive business insights such as sales performance, customer trends, employee contributions, and supplier efficiency.
+### ➢ Designed and optimized SQL queries to retrieve and manipulate data across multiple related tables. Implemented joins, subqueries, aggregate functions, and grouping for detailed analysis. Explored schema relationships (e.g., Customers ↔ Orders ↔ Order_Details ↔ Products) to answer business-oriented questions. Created views and reports for sales, shipping, and product-category analysis.
+### ➢ Gained hands-on experience in database design, query optimization, and business reporting. Improved query writing efficiency by 40% and delivered accurate insights on sales and customer behavior that could support decision-making in a real business scenario.
